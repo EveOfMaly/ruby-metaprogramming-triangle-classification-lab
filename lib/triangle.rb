@@ -34,6 +34,7 @@ class Triangle
 
 
   class TriangleError  < StandardError
+    puts "there is an error with the triangle"
   end 
 
 end
