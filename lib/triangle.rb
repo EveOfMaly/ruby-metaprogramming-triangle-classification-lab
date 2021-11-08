@@ -40,14 +40,14 @@ class Triangle
 end
 
 
-# triangle = Triangle.new(5, 4, 2)
-# triangle.validate_triangle
-# triangle2 = Triangle.new(1, 1, 3)
-# triangle2 .validate_triangle
-# triangle3 = Triangle.new(2, 4, 2)
-# triangle3.validate_triangle
-# triangle4 = Triangle.new(7, 3, 2)
-# triangle4.validate_triangle
+triangle = Triangle.new(5, 4, 2)
+triangle.validate_triangle
+triangle2 = Triangle.new(1, 1, 3)
+triangle2 .validate_triangle
+triangle3 = Triangle.new(2, 4, 2)
+triangle3.validate_triangle
+triangle4 = Triangle.new(7, 3, 2)
+triangle4.validate_triangle
 
 
 
